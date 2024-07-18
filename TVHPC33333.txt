@@ -1,0 +1,8 @@
+BBC AP HD,http://tv:cctv5@192.168.50.4:8855/stream/channelid/1189831400?profile=pass
+BBC AP SD,http://tv:cctv5@192.168.50.4:8855/stream/channelid/1998222749?profile=pass
+CCTV-5+,http://tv:cctv5@192.168.50.4:8855/stream/channelid/91499932?profile=pass
+CCTV1-HD,http://tv:cctv5@192.168.50.4:8855/stream/channelid/1515962552?profile=pass
+CCTV3-HD,http://tv:cctv5@192.168.50.4:8855/stream/channelid/2125178266?profile=pass
+CCTV4-HD,http://tv:cctv5@192.168.50.4:8855/stream/channelid/1287188131?profile=pass
+CCTV5-HD,http://tv:cctv5@192.168.50.4:8855/stream/channelid/1869126917?profile=pass
+CNBC Asia HD60,http://tv:cctv5@192.168.50.4:8855/stream/channelid/115778545?profile=pass
